@@ -41,7 +41,7 @@
    transform-style: preserve-3d;
 }
 
-.card:hover {
+.card.clicked {
 	-webkit-transform: rotateY(180deg);
    -moz-transform: rotateY(180deg);
    -ms-transform: rotateY(180deg);
